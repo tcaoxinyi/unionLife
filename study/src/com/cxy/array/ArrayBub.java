@@ -1,4 +1,4 @@
-package com.cxy;
+package com.cxy.array;
 
 public class ArrayBub {
 
